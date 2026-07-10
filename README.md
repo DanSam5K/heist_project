@@ -1,24 +1,19 @@
-# README
+# Pocket Heist
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Starter project for the Claude Code Masterclass.
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+Install dependencies:
 
-* System dependencies
+```bash
+npm install
+```
 
-* Configuration
+Run the development server:
 
-* Database creation
+```bash
+npm run dev
+```
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Open [http://localhost:3000](http://localhost:3000) to view the app.
